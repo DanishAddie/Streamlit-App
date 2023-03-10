@@ -5,7 +5,7 @@ from datetime import datetime
 from io import BytesIO
 import plotly.express as px
 import matplotlib.pyplot as plt
-from pandas-datareader import data as pdr
+from pandas_datareader import data as pdr
 from pypfopt import EfficientFrontier, risk_models, expected_returns, plotting, hierarchical_portfolio, HRPOpt
 import yfinance as yfin
 
