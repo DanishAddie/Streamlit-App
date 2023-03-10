@@ -2,4 +2,4 @@ plotly
 matplotlib
 pandas-datareader
 yfinance
-pypfopt
+PyPortfolioOpt
